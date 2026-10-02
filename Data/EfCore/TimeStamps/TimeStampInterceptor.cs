@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
+using Slop.DataAbstractions.TimeStamps;
 
 namespace Slop.EfCore.TimeStamps;
 

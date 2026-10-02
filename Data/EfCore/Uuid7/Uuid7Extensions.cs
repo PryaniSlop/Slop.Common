@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Slop.DataAbstractions.Uuid7;
 
 namespace Slop.EfCore.Uuid7;
 

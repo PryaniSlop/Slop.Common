@@ -1,4 +1,4 @@
-namespace Slop.EfCore.Uuid7;
+namespace Slop.DataAbstractions.Uuid7;
 
 public interface IId
 {

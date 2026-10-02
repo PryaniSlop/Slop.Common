@@ -1,4 +1,4 @@
-namespace Slop.EfCore.TimeStamps;
+namespace Slop.DataAbstractions.TimeStamps;
 
 public interface ICreatedAt
 {
