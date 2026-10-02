@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.EntityFrameworkCore.ValueGeneration;
 
-namespace Slop.EfCore.ValueGenerators;
+namespace Slop.EfCore.Uuid7;
 
 public sealed class Uuid7Generator : ValueGenerator<Guid>
 {

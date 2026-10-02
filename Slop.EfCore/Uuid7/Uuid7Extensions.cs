@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Slop.EfCore.Abstractions;
 
-namespace Slop.EfCore.ValueGenerators;
+namespace Slop.EfCore.Uuid7;
 
 public static class Uuid7Extensions
 {
