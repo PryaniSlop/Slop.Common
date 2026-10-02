@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="Slop.EfCore/Slop.EfCore.csproj" />
+</Solution>
