@@ -3,6 +3,9 @@
     <Project Path="Data/DataAbstractions/DataAbstractions.csproj" />
     <Project Path="Data/EfCore/EfCore.csproj" />
   </Folder>
+  <Folder Name="/Helpers/">
+    <Project Path="Helpers/Caching/Caching.csproj" />
+  </Folder>
   <Folder Name="/Web/">
     <Project Path="Web/Web/Web.csproj" />
   </Folder>
