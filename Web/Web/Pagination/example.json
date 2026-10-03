@@ -1,0 +1,6 @@
+{
+  "Pagination": {
+    "MinPageSize": 5,
+    "MaxPageSize": 100
+  }
+}

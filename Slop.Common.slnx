@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/Data/">
+    <Project Path="Data/DataAbstractions/DataAbstractions.csproj" />
+    <Project Path="Data/EfCore/EfCore.csproj" />
+  </Folder>
+  <Folder Name="/Web/">
+    <Project Path="Web/Web/Web.csproj" />
+  </Folder>
+</Solution>
